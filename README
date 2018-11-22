@@ -1,0 +1,14 @@
+Code Sample Overview
+Java:
+  The Java files are used to read lines from an input file and output if the lines are pangrams or not. In this form it only does so
+  with lowercase letters, though this could be modified to handle uppercase lines or mixed lines
+  
+C++:
+  The C++ files detail a simulation for a Drone Collision Avoidance System, in which ten drones (named 'A' through 'J') are assigned two
+  package delivery locations on a 40*40 grid (delivery locations are the lowercase version of the drone name). They each take off from
+  a airport and make a delivery, return and then make their second delivery. The DCAS simulation prevents the drones from crashing into 
+  each other and also tracks their deliveries.
+  
+C#:
+  The C# files are a selection of code that I wrote for my software engineering project. They handle player interaction with game objects
+  through Unity. The full project can be found at https://github.com/Mostly-BS-Totally-BA/mostly-bs-totally-ba
